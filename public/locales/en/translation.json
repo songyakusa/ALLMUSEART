@@ -1,0 +1,41 @@
+{
+    "Thanks": {
+        "1": "Thank you"
+    },
+    "Why": {
+        "1": "For watching this video"
+    },
+    "Naverbar":{
+        "1":"Home",
+        "2":"Exhibition",
+        "3":"Technology",
+        "4":"About us",
+        "5":"Contact"
+    },
+    "Home" : {
+        "1":"Allmuseart Expert Exhibition Creation",
+        "2":"We are a leading company in organizing exhibitions and events.",
+        "3":" We focus on product quality and Service as the core By adhering to the policy of working with clients, that is, if the customer organizes the event and is successful That is our success as well."
+        
+    },
+    "Exhibition" : {
+        "1":"Exhibition",
+        "2":"Have fun learning basic science and enjoy studying the nature of the surroundings. With brightly colored pieces Arouse interest Let",
+        "3":"the experiment And the occurrence of self-learning To create impressive science skills and experiences And dazzling beauty with light and sound"
+    },
+    "Technology" : {
+        "1":"Technology",
+        "2":"In the present, it cannot be denied that technology has become a vital part of human life. The entry of that technology",
+        "3":"Not excepting the field of teaching and learning academic art that is evident in the form of an exhibition In order to be able to tell the story to be concise and understandable within a quick time to watch It is a support for self-learning."
+    },
+    "More":{
+        "1":"Read more"
+    },
+
+    "Aboutus" : {
+        "1":"About us",
+        "2":"For more than ten years Allweb Technology has continuously managed and developed work systems to strive to develop our products and services creatively. Along with responding to customer needs further We have gained the trust of our customers. Must rely on the working principle that ''Honesty is our virtue'' This is a testament to how all web technology Will be there for you in the quality service provider for a long time"
+    }
+    
+
+}
